@@ -2,6 +2,6 @@
   "name": "Bureau of Meteorology",
   "render_readme": "true",
   "url": "https://github.com/boglee/bureau_of_meteorology",
-  "maintainer": "bremor"
+  "maintainer": "bremor",
   "iot_class": "Cloud Polling"
 }
