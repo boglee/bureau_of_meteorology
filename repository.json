@@ -1,6 +1,6 @@
 {
   "name": "Bureau of Meteorology",
   "render_readme": "true",
-  "url": "https://github.com/boglee/bureau_of_meteorology"
+  "url": "https://github.com/boglee/bureau_of_meteorology",
   "iot_class": "Cloud Polling"
 }
